@@ -2,6 +2,16 @@
 
 This Python script leverages the `camelot` library to extract tables from a PDF file, exporting the data into CSV files. The script provides flexibility for the user to specify the PDF file path, the page number to extract, and the extraction flavor. Here's a guide on understanding and using the script.
 
+## Table of Contents
+1. [Features](#features)
+2. [Usage Instructions](#usage-instructions)
+3. [Prerequisites](#prerequisites)
+4. [Configuration](#configuration)
+5. [Review the Output](#review-the-output)
+6. [Adjustments](#adjustments)
+7. [Notes](#notes)
+8. [License](#license)
+
 ## Features:
 
 1. **PDF Table Extraction:**
@@ -47,4 +57,5 @@ This Python script leverages the `camelot` library to extract tables from a PDF 
    - Ensure that you have the required dependencies installed.
    - Use responsibly and in compliance with the terms of service of the PDF source.
 
-Feel free to adapt and extend this script for other PDFs or additional functionalities. If you encounter issues or have specific requirements, refer to the `camelot` documentation for further guidance: [camelot-py Documentation](https://camelot-py.readthedocs.io/en/master/).
+## License
+This project is licensed under the [MIT License](LICENSE).
